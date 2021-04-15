@@ -1,3 +1,13 @@
 body {
-  background: orange;
+  background: rgb(178, 230, 223);
+}
+button {
+  background-color: rgb(134, 240, 134);
+  width: 15rem;
+  font-size: 2rem;
+  height: auto;
+  cursor: pointer;
+}
+button:hover {
+  background-color: rgb(0, 119, 255);
 }
